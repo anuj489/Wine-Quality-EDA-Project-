@@ -94,5 +94,4 @@ The dataset contains **physicochemical** tests as input variables and **sensory 
 ## 📬 Author
 
 **Anuj Agarwal**  
-Data Analyst Intern | My Bar Headquarters  
 [LinkedIn](https://www.linkedin.com/)
